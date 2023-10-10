@@ -11,5 +11,5 @@ updates:
       interval: "weekly"
     commit-message:
       prefix: ":robot: update"
-      prefix-development: ":robot: update"
+      prefix-development: ":robot: Update "
       include: "scope"
